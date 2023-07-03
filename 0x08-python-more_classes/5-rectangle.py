@@ -74,4 +74,4 @@ class Rectangle:
 
     def __del__(self):
         """notify every time a rectangle is deleted."""
-        print("Sorry... rectangle deleted. Del execution successiful")
+        print("Bye rectangle...")
